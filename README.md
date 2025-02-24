@@ -25,23 +25,17 @@ Installation
 
 Follow these steps to set up and run the project:
 
-1. Clone the repository:
-
-git clone <repository-url>
-cd ajackus-assignment
-
-
-2. Install dependencies:
+1. Install dependencies:
 
 npm install
 
 
-3. Start the development server:
+2. Start the development server:
 
 npm start
 
 
-4. Open your browser and navigate to http://localhost:3000.
+3. Open your browser and navigate to http://localhost:3000.
 
 ---
 
